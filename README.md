@@ -1,7 +1,8 @@
 # Android-Data-System-Audit
 Android Data System Audit: Android Backup Tool is a Python proof‑of‑concept tool that demonstrates how an Android device’s file system can be fully copied to a laptop. The project highlights potential vulnerabilities in Android’s permission and storage models, serving as an educational resource for developers, researchers, and cybersecurity enthusiasts.
 
-<img width="1368" height="1920" alt="v3 scan status censored imei" src="https://github.com/user-attachments/assets/cd21dc7b-f80c-40ba-8e3d-8bfbf1aabe72" />
+<img width="1368" height="1988" alt="v3 scan status censored imei" src="https://github.com/user-attachments/assets/2ab4b0ff-bc20-4ba5-8357-b48e644b5b11" />
+
 
 
 
@@ -11,7 +12,6 @@ Android Data System Audit: Android Backup Tool is a Python proof‑of‑concept 
 Clone the repository:
 
 bash
-git clone https://github.com/yourusername/android-data-system-audit.git
 cd android-data-system-audit
 Install dependencies:
 
