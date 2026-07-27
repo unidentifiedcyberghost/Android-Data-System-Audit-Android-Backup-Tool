@@ -1,7 +1,8 @@
 # Android-Data-System-Audit
 Android Data System Audit: Android Backup Tool is a Python proof‑of‑concept tool that demonstrates how an Android device’s file system can be fully copied to a laptop. The project highlights potential vulnerabilities in Android’s permission and storage models, serving as an educational resource for developers, researchers, and cybersecurity enthusiasts.
 
-this is the latest update: with GUI (Phase 4 : Stage)
+this is the latest update: with GUI (Phase 4 : Stage) in this testing Phase, i add the TREE command, inside of the GUI, so it will display the Real-Time Device STORAGE TREE of the MOBILE DEVICE with a TIME STAMP. and SYSTEM info's in the TOP . 
+
 <img width="1380" height="1412" alt="with gui" src="https://github.com/user-attachments/assets/e556b860-8aae-4da4-955a-3e01fa30544f" />
 
 <img width="1368" height="1988" alt="v3 scan status censored imei" src="https://github.com/user-attachments/assets/2ab4b0ff-bc20-4ba5-8357-b48e644b5b11" />
